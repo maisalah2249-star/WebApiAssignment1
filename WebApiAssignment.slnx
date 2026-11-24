@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ECommerceSystem/ECommerceSystem.csproj" />
+  <Project Path="HealthCareSystem/HealthCareSystem.csproj" Id="e9e99b5d-63ba-40f7-b2f0-d6e392551aff" />
+  <Project Path="LibrarySystem/LibrarySystem.csproj" Id="3f17fd42-710f-4638-aed9-99d69aabcbbd" />
+</Solution>
